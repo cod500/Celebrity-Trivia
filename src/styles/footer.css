@@ -1,0 +1,13 @@
+.footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background: var(--color-primary);
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.footer p {
+  margin: 0 1rem;
+}
+/*# sourceMappingURL=footer.css.map */
